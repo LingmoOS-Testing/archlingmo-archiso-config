@@ -26,7 +26,7 @@ jobs:
         if [ -f docker_image_cache.tar ]; then
           docker load -i docker_image_cache.tar
         else
-          docker build -t builder https://github.com/LingmoOS/archlingmo-archiso-config.git
+          docker build -t builder https://github.com/LingmoOS-Testing/archlingmo-archiso-config.git
           docker save builder -o docker_image_cache.tar
         fi
 
