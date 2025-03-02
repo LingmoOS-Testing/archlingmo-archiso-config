@@ -7,7 +7,6 @@ broadcom-wl
 diffutils
 dmidecode
 efibootmgr
-gnu-netcat
 grub
 gvfs
 hdparm
@@ -33,6 +32,7 @@ nbd
 ndisc6
 nmap
 open-vm-tools
+openbsd-netcat
 openssh
 pv
 qemu-guest-agent
@@ -68,7 +68,6 @@ jfsutils
 nfs-utils
 nilfs-utils
 ntfs-3g
-reiserfsprogs
 squashfs-tools
 udftools
 xfsprogs
