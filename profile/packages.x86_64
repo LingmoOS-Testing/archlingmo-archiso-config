@@ -125,7 +125,7 @@ lingmo-core
 LingmoUI
 liblingmo
 lingmo-filemanager
-lingmo-settings
+#lingmo-settings
 lingmo-terminal
 lingmo-dock
 lingmo-launcher
