@@ -123,7 +123,7 @@ sddm
 kwin
 lingmo-core
 LingmoUI
-liblingmo
+#liblingmo
 lingmo-filemanager
 #lingmo-settings
 lingmo-terminal
