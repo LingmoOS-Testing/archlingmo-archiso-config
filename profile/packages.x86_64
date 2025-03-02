@@ -5,31 +5,23 @@ b43-fwcutter
 base
 broadcom-wl
 diffutils
-dmidecode
 efibootmgr
 grub
 gvfs
-hdparm
 hyperv
 intel-ucode
 iptables
-irssi
-iw
 less
 linux
 linux-firmware
 linux-firmware-marvell
-lynx
 man-db
 man-pages
-mc
 mkinitcpio
 mkinitcpio-archiso
 modemmanager
 mtools
 nano
-nbd
-ndisc6
 nmap
 open-vm-tools
 openbsd-netcat
@@ -38,15 +30,10 @@ pv
 qemu-guest-agent
 reflector
 rsync
-screen
-sdparm
-smartmontools
 sudo
 syslinux
-systemd-resolvconf
 terminus-font
 tmux
-tpm2-tools
 usbutils
 vim
 wireless-regdb
@@ -64,9 +51,7 @@ dosfstools
 e2fsprogs
 exfatprogs
 f2fs-tools
-jfsutils
 nfs-utils
-nilfs-utils
 ntfs-3g
 squashfs-tools
 udftools
@@ -98,11 +83,7 @@ ncdu
 neofetch
 aria2
 htop
-btop
-elinks
-micro
 p7zip
-github-cli
 
 # zsh
 oh-my-zsh-git
@@ -134,7 +115,6 @@ pipewire
 pipewire-alsa
 pipewire-pulse
 pipewire-jack
-pulsemixer
 pavucontrol
 gst-plugin-pipewire
 
