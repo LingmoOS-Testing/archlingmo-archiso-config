@@ -121,8 +121,9 @@ gst-plugin-pipewire
 # lingmo
 sddm
 kwin
+modemmanager-qt5
 lingmo-core
-LingmoUI
+lingmoui
 liblingmo
 lingmo-filemanager
 lingmo-settings
