@@ -22,13 +22,10 @@ mkinitcpio-archiso
 modemmanager
 mtools
 nano
-nmap
 open-vm-tools
-openbsd-netcat
 openssh
 pv
 qemu-guest-agent
-reflector
 rsync
 sudo
 syslinux
@@ -36,7 +33,6 @@ terminus-font
 tmux
 usbutils
 vim
-wireless-regdb
 zsh
 
 # terminfo
@@ -67,9 +63,6 @@ busybox
 debootstrap
 networkmanager
 network-manager-applet
-networkmanager-vpnc
-networkmanager-pptp
-networkmanager-openvpn
 xorg-xhost
 
 # archlinuxcn
@@ -105,7 +98,6 @@ wqy-zenhei
 calamares
 gparted
 firefox
-xarchiver
 
 # audio
 alsa-firmware
