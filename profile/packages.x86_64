@@ -12,7 +12,7 @@ hyperv
 intel-ucode
 iptables
 less
-linux
+linux-xanmod-lts
 linux-firmware
 linux-firmware-marvell
 man-db
