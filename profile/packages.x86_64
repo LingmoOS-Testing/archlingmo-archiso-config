@@ -73,7 +73,6 @@ paru
 # cli tools
 fastfetch
 ncdu
-neofetch
 aria2
 htop
 p7zip
